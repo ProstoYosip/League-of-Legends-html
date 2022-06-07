@@ -1,0 +1,847 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:focus, :active {
+  outline: none;
+}
+
+a:focus, a:active {
+  outline: none;
+}
+
+nav, footer, header, aside {
+  display: block;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input, button, textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.rectangle1__vector-1 {
+  z-index: 3;
+  position: absolute;
+  top: 0px;
+  left: 244px;
+  width: 0px;
+  height: 2581px;
+  border: 3px solid #ffffff;
+  filter: blur(3px);
+}
+.rectangle1__vector-2 {
+  z-index: 3;
+  position: absolute;
+  top: 0px;
+  right: 190px;
+  width: 0px;
+  height: 2581px;
+  border: 3px solid #ffffff;
+  filter: blur(3px);
+}
+.rectangle1__img .image2 {
+  z-index: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin-right: 4px;
+  width: 244px;
+  height: 1430px;
+  filter: blur(10px);
+}
+.rectangle1__img .image1 {
+  z-index: 1;
+  position: absolute;
+  top: 0px;
+  left: 1382px;
+  margin-left: 4px;
+  width: 218px;
+  height: 1430px;
+  filter: blur(10px);
+}
+.rectangle1__img .image6 {
+  z-index: 1;
+  position: absolute;
+  top: 1429px;
+  left: 0px;
+  width: 1600px;
+  height: 1119px;
+  filter: blur(10px);
+}
+.rectangle1__rectangle2 {
+  z-index: 2;
+  position: absolute;
+  top: 0px;
+  left: 248px;
+  width: 1138px;
+  height: 2580px;
+  background: url(../img/rectangle2/Rectangle__2.png);
+  filter: blur(10px);
+  border-radius: 6px;
+}
+
+.rectangle2 {
+  z-index: 2;
+  position: absolute;
+  top: 0px;
+  left: 248px;
+  width: 1138px;
+  height: 2580px;
+}
+.rectangle2__logo {
+  position: absolute;
+  top: 0px;
+  left: 421px;
+  width: 306px;
+  height: 123px;
+}
+.rectangle2__version {
+  position: absolute;
+  top: 25px;
+  left: 877px;
+  width: 221px;
+  height: 45px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+}
+.rectangle2__pages {
+  position: absolute;
+  top: 175px;
+  left: 144px;
+  width: 921px;
+  height: 74px;
+}
+.rectangle2__pages-home {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  color: #ffffff;
+}
+.rectangle2__pages-home-underline {
+  position: absolute;
+  top: 42px;
+  left: -5.5px;
+  width: 130px;
+  height: 0px;
+  border-bottom: 4px solid #dacd89;
+}
+.rectangle2__pages-community {
+  position: absolute;
+  top: 5px;
+  left: 205px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+}
+.rectangle2__pages-updates {
+  position: absolute;
+  top: 5px;
+  left: 480px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+}
+.rectangle2__pages-onas {
+  position: absolute;
+  top: 5px;
+  left: 761px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ffffff;
+}
+.rectangle2__lastchempion {
+  position: absolute;
+  top: 249px;
+  left: 0px;
+  width: 1138px;
+  height: 721px;
+}
+.rectangle2__lastchempion-name {
+  position: absolute;
+  top: 92px;
+  left: 42px;
+  width: 408px;
+  height: 31px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 29px;
+  color: #ebebeb;
+}
+.rectangle2__lastchempion-text {
+  position: absolute;
+  top: 123px;
+  left: 42px;
+  width: 226px;
+  height: 64px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #ebebeb;
+}
+.rectangle2__bansarebetter {
+  position: absolute;
+  top: 494px;
+  left: 0px;
+  width: 1138px;
+  height: 476px;
+  background: #ffffff;
+}
+.rectangle2__bansarebetter-bestbanks {
+  z-index: 3;
+  box-sizing: border-box;
+  position: absolute;
+  top: 39px;
+  left: 41px;
+  width: 399px;
+  height: 399px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-title {
+  position: absolute;
+  top: 27px;
+  left: 86px;
+  width: 264px;
+  height: 51px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-1 {
+  position: absolute;
+  top: 110px;
+  left: 17px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-img1 {
+  position: absolute;
+  top: 95px;
+  left: 35px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-name1 {
+  position: absolute;
+  top: 110px;
+  left: 113px;
+  width: 50px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #545252;
+}
+.rectangle2__bansarebetter-bestbanks-percent1 {
+  position: absolute;
+  top: 115px;
+  left: 175px;
+  width: 120px;
+  height: 19px;
+  background: #ff0000;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-number1 {
+  position: absolute;
+  top: 111px;
+  left: 322px;
+  width: 59px;
+  height: 23px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-2 {
+  position: absolute;
+  top: 206px;
+  left: 17px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-img2 {
+  position: absolute;
+  top: 191px;
+  left: 35px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-name2 {
+  position: absolute;
+  top: 206px;
+  left: 113px;
+  width: 62px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #545252;
+}
+.rectangle2__bansarebetter-bestbanks-percent2 {
+  position: absolute;
+  top: 206px;
+  left: 175px;
+  width: 87px;
+  height: 19px;
+  background: #ff0000;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-number2 {
+  position: absolute;
+  top: 202px;
+  left: 322px;
+  width: 59px;
+  height: 23px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-3 {
+  position: absolute;
+  top: 310px;
+  left: 17px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-bestbanks-img3 {
+  position: absolute;
+  top: 287px;
+  left: 35px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-name3 {
+  position: absolute;
+  top: 305px;
+  left: 113px;
+  width: 76px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #545252;
+}
+.rectangle2__bansarebetter-bestbanks-percent3 {
+  position: absolute;
+  top: 307px;
+  left: 175px;
+  width: 70px;
+  height: 19px;
+  background: #ff0000;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-bestbanks-number3 {
+  position: absolute;
+  top: 305px;
+  left: 320px;
+  width: 59px;
+  height: 23px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions {
+  box-sizing: border-box;
+  position: absolute;
+  top: 39px;
+  right: 43px;
+  width: 396px;
+  height: 399px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-title {
+  position: absolute;
+  top: 25px;
+  left: 60px;
+  width: 302px;
+  height: 84px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-1 {
+  position: absolute;
+  top: 104px;
+  left: 23px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-img1 {
+  position: absolute;
+  top: 95px;
+  left: 43px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-name1 {
+  position: absolute;
+  top: 113px;
+  left: 129px;
+  width: 69px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-percent1 {
+  position: absolute;
+  top: 115px;
+  left: 208px;
+  width: 120px;
+  height: 19px;
+  background: #00ff29;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-number1 {
+  position: absolute;
+  top: 113px;
+  left: 338px;
+  width: 76px;
+  height: 38px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-2 {
+  position: absolute;
+  top: 210px;
+  left: 23px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-img2 {
+  position: absolute;
+  top: 191px;
+  left: 43px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-name2 {
+  position: absolute;
+  top: 206px;
+  left: 129px;
+  width: 79px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-percent2 {
+  position: absolute;
+  top: 211px;
+  left: 211px;
+  width: 113px;
+  height: 19px;
+  background: #00ff29;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-number2 {
+  position: absolute;
+  top: 211px;
+  left: 338px;
+  width: 76px;
+  height: 38px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-3 {
+  position: absolute;
+  top: 315px;
+  left: 23px;
+  width: 35px;
+  height: 30px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-img3 {
+  position: absolute;
+  top: 287px;
+  left: 43px;
+  width: 59px;
+  height: 59px;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-name3 {
+  position: absolute;
+  top: 305px;
+  left: 129px;
+  width: 79px;
+  height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.rectangle2__bansarebetter-thebestchampions-percent3 {
+  position: absolute;
+  top: 307px;
+  left: 211px;
+  width: 113px;
+  height: 19px;
+  background: #00ff29;
+  border-radius: 10px;
+}
+.rectangle2__bansarebetter-thebestchampions-number3 {
+  position: absolute;
+  top: 307px;
+  left: 338px;
+  width: 76px;
+  height: 38px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+.rectangle2__vector2 {
+  position: absolute;
+  top: 1047.5px;
+  left: 25px;
+  width: 1088.5px;
+  height: 3px;
+  border: 3px solid #ffffff;
+  filter: blur(4px);
+}
+.rectangle2__allchampions {
+  position: absolute;
+  top: 1086px;
+  left: 46px;
+  width: 1063px;
+  height: 158px;
+}
+.rectangle2__allchampions-blitzcrank img {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-blitzcrank p {
+  position: absolute;
+  top: 111px;
+  left: 0px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-ari img {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0px;
+  left: 137px;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-ari p {
+  position: absolute;
+  top: 111px;
+  left: 168px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-granna img {
+  box-sizing: border-box;
+  position: absolute;
+  top: 0px;
+  left: 275px;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-granna p {
+  position: absolute;
+  top: 111px;
+  left: 278px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-varvik img {
+  box-sizing: border-box;
+  top: 0px;
+  left: 406px;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-varvik p {
+  position: absolute;
+  top: 111px;
+  left: 436px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-gin img {
+  box-sizing: border-box;
+  top: 0px;
+  left: 541px;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-gin p {
+  position: absolute;
+  top: 111px;
+  left: 562px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-vukong img {
+  box-sizing: border-box;
+  top: 0px;
+  left: 674px;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-vukong p {
+  position: absolute;
+  top: 111px;
+  left: 703px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-yorick img {
+  box-sizing: border-box;
+  top: 0px;
+  left: 812px;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-yorick p {
+  position: absolute;
+  top: 111px;
+  left: 846px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__allchampions-jinx img {
+  box-sizing: border-box;
+  top: 0px;
+  right: 22px;
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  border: 1px solid #000000;
+}
+.rectangle2__allchampions-jinx p {
+  position: absolute;
+  top: 111px;
+  left: 967px;
+  width: 96px;
+  height: 47px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #545252;
+}
+.rectangle2__pashalka {
+  position: absolute;
+  right: 20px;
+  bottom: 32px;
+  width: 104px;
+  height: 111px;
+}
